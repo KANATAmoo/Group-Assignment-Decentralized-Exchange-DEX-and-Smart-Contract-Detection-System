@@ -1,6 +1,8 @@
 This is the blockchain group assignment for group 14
 
-
+There are two parts of this assignment:
+- Decentralized Exchange Smart Contract
+- Smart Contract Detection System
 
 Video Links:
 
